@@ -2,7 +2,7 @@
 
 Meu nome é Nathaly
 
- - Estou estudando no Alura;
+ - Estou estudando no [Alura](https://cursos.alura.com.br/)
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo aqui para minha organização e ompartilhamento de projetos
 
